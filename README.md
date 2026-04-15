@@ -4,10 +4,10 @@
 * Objetivo: Usar SQL para manipular uma base de dados e poder gerar um relatório (dashboard) de um ecommerce
 * Requisitos: Ter uma plataforma de escrita em Python, Jupyter notebook ou executar no prompt de comando
 * Instalação: Copiar e colar o código; fazer o download da base de dados, executar o código
-* <a href="https://github.com/lucasdga1/Projeto_EBAC_M13/blob/main/Profissao%20Cientista%20de%20Dados%20M13%20Projeto.ipynb">Código do laboratório resolvido</a>
-<img width="1567" height="520" alt="Lab_01" src="https://github.com/user-attachments/assets/d8f266f2-1664-484d-ac7e-e697cdb8e18b" />
-<img width="1650" height="565" alt="Lab_02" src="https://github.com/user-attachments/assets/21d2b21a-ff43-47b3-a174-2a0675050a3f" />
-<img width="1425" height="352" alt="Lab_03" src="https://github.com/user-attachments/assets/a56acbc6-9f17-45c5-9ca4-74cb3de1537a" />
+* <a href="https://github.com/lucasdga1/SQL_Dashboard/blob/main/Cientista%20de%20Dados%20M26%20Projeto.ipynb">Código do projeto</a>
+* <a href="https://datastudio.google.com/s/owQ1ghjWB88">Dashboard</a>
+<img width="1126" height="843" alt="Dashboard" src="https://github.com/user-attachments/assets/4a962c8b-adf6-4285-b0d0-6e7e69c27f4f" />
+
 
 
 
